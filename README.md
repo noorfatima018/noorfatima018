@@ -79,10 +79,10 @@ I am a Computer Science student passionate about building **aesthetic and functi
 
 <div align="center">
 
-<a href="https://github.com/noorfatima018/project-1">
+<a href="https://github.com/noorfatima018/FOODIE-POS">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=noorfatima018&repo=project-1&theme=tokyonight&border_color=c084fc&bg_color=0d1117&title_color=c084fc&icon_color=c084fc" />
 </a>
-<a href="https://github.com/noorfatima018/project-2">
+<a href="https://github.com/noorfatima018/LushBlush-makeup-website">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=noorfatima018&repo=project-2&theme=tokyonight&border_color=c084fc&bg_color=0d1117&title_color=c084fc&icon_color=c084fc" />
 </a>
 
