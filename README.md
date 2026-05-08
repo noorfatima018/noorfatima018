@@ -88,7 +88,7 @@ I am a Computer Science student passionate about building **aesthetic and functi
 
 </div>
 
-> 💡 *Replace `project-1` and `project-2` with your actual repository names!*
+
 
 ---
 
