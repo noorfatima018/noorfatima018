@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,30&height=200&section=header&text=Noor%20Fatima&fontSize=60&fontColor=fff&fontAlignY=38&desc=Where%20creativity%20meets%20code%20🌸&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:a855f7,100:ec4899&height=220&section=header&text=Noor%20Fatima&fontSize=65&fontColor=fff&fontAlignY=38&desc=Where%20creativity%20meets%20code%20🌸&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=22&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%F0%9F%8E%93;Full+Stack+%26+Mobile+Developer+%F0%9F%92%BB;UI%2FUX+Enthusiast+%F0%9F%8E%A8;Building+aesthetic+digital+experiences+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=22&pause=1000&color=C084FC&center=true&vCenter=true&width=650&lines=Computer+Science+Student+%F0%9F%8E%93;Full+Stack+%26+Mobile+Developer+%F0%9F%92%BB;UI%2FUX+Enthusiast+%F0%9F%8E%A8;Building+aesthetic+digital+experiences+%E2%9C%A8" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -17,7 +17,7 @@
 ## ✨ About Me
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"/>
 </div>
 
 <br/>
@@ -134,6 +134,6 @@ I am a Computer Science student passionate about building **aesthetic and functi
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,30&height=120&section=footer&fontSize=20&fontColor=fff&text=🌸%20Where%20creativity%20meets%20code%20🌸" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,50:a855f7,100:6d28d9&height=120&section=footer&fontSize=20&fontColor=fff&text=🌸%20Where%20creativity%20meets%20code%20🌸" width="100%"/>
 
 </div>
